@@ -1,0 +1,6 @@
+{
+  "name": "Fun Wave Games",
+  "description": "Official gaming website for Fun Wave Games, featuring mobile and tablet titles on Amazon Appstore including Color Puzzle, Monster Truck Destruction Demolition Derby, and Block Blast Classic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
