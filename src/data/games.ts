@@ -6,7 +6,7 @@ export const STUDIO_INFO = {
   tagline: 'Crafting vibrant, addictive mobile gaming experiences for Amazon Appstore and beyond.',
   description: 'Fun Wave Games is an independent solo game development studio dedicated to creating satisfying casual puzzles, explosive arcade demolition simulators, and engaging brain games.',
   amazonStoreUrl: 'https://www.amazon.com/s?i=mobile-apps&rh=p_4%3AFun+Wave+Games',
-  logoUrl: '/src/assets/images/fun_wave_logo_1788370404513.jpg',
+  logoUrl: '/images/fun_wave_logo_1788370404513.jpg',
   establishedYear: '2025',
 };
 
