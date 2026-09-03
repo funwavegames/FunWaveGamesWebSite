@@ -18,7 +18,7 @@ export const FEATURED_GAMES: GameItem[] = [
     tagline: 'Satisfying color sorting logic puzzle with vibrant liquid physics',
     category: 'Puzzle / Casual',
     amazonUrl: 'https://www.amazon.com/Fun-Wave-Games-Color-Puzzle/dp/B0GG7GMPFW/ref=sr_1_5?dib=eyJ2IjoiMSJ9.lch_wRQgxNzvlqCtVBlUqKywm9caPH5jcdgFZDnPZZnGjHj071QN20LucGBJIEps.rjovKiyCbEJPptlhT2AfzS6wQGcidvHZ25YcL9NYLHo&dib_tag=se&qid=1788370207&refinements=p_4%3AFun+Wave+Games&s=mobile-apps&search-type=ss&sr=1-5',
-    imageUrl: '/src/assets/images/color_puzzle_cover_1788370419033.jpg',
+    imageUrl: '/images/color_puzzle_cover_1788370419033.jpg',
     description: 'Immerse yourself in a relaxing yet challenging color sorting experience. Pour, match, and organize vibrant hues into test tubes to solve hundreds of engaging levels.',
     longDescription: 'Color Puzzle by Fun Wave Games brings the most gratifying brain training directly to your mobile device or Fire tablet. Test your wits as you pour luminous liquids from tube to tube until all matching colors unite. With intuitive one-touch mechanics, calming audio cues, and progressive difficulty, Color Puzzle provides the perfect balance of relaxation and mental stimulation.',
     highlights: [
@@ -42,7 +42,7 @@ export const FEATURED_GAMES: GameItem[] = [
     tagline: 'High-octane demolition derby combat with heavy-duty metal crunching mayhem',
     category: 'Action / Racing / Simulation',
     amazonUrl: 'https://www.amazon.com/Monster-Truck-Destruction-Demolition-Derby/dp/B0G2CZ399Z/ref=sr_1_6?dib=eyJ2IjoiMSJ9.lch_wRQgxNzvlqCtVBlUqKywm9caPH5jcdgFZDnPZZnGjHj071QN20LucGBJIEps.rjovKiyCbEJPptlhT2AfzS6wQGcidvHZ25YcL9NYLHo&dib_tag=se&qid=1788370207&refinements=p_4%3AFun+Wave+Games&s=mobile-apps&search-type=ss&sr=1-6',
-    imageUrl: '/src/assets/images/truck_demolition_1788370437931.jpg',
+    imageUrl: '/images/truck_demolition_1788370437931.jpg',
     description: 'Get behind the wheel of unstoppable monster trucks in fierce demolition derbies! Crush junk cars, perform daring arena jumps, and be the last truck standing.',
     longDescription: 'Monster Truck Destruction Demolition Derby puts you right into the dirt arena where only the toughest trucks survive! Feel the roar of V8 engines as you smash through rival vehicles, pulverize obstacles, and execute gravity-defying ramp jumps. Featuring realistic vehicular deformation, explosive crash physics, and intuitive arcade steering, this demolition derby delivers non-stop thrills for automotive mayhem fans.',
     highlights: [
@@ -66,7 +66,7 @@ export const FEATURED_GAMES: GameItem[] = [
     tagline: 'Classic jewel block grid puzzle with dazzling combo blasts and endless scoring',
     category: 'Puzzle / Arcade',
     amazonUrl: 'https://www.amazon.com/Block-Blast-Classic-Puzzle-Game/dp/B0HG4QHR8Y/ref=sr_1_7?dib=eyJ2IjoiMSJ9.lch_wRQgxNzvlqCtVBlUqKywm9caPH5jcdgFZDnPZZnGjHj071QN20LucGBJIEps.rjovKiyCbEJPptlhT2AfzS6wQGcidvHZ25YcL9NYLHo&dib_tag=se&qid=1788370207&refinements=p_4%3AFun+Wave+Games&s=mobile-apps&search-type=ss&sr=1-7',
-    imageUrl: '/src/assets/images/block_blast_cover_1788370454936.jpg',
+    imageUrl: '/images/block_blast_cover_1788370454936.jpg',
     description: 'Place polyomino block pieces into the 8x8 grid, clear full rows and columns, and trigger explosive combo chains to set unbeatable high scores.',
     longDescription: 'Block Blast Classic Puzzle Game is the quintessential block placement puzzle experience, blending simple rules with deep strategic mastery. Arrange varied jewel tile shapes onto the grid to clear horizontal or vertical lines. Chain multiple clearances simultaneously to unleash electrifying combo multipliers. Completely offline-friendly, it is your ideal companion for quick gaming breaks or marathon puzzle sessions.',
     highlights: [
